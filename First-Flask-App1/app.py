@@ -138,6 +138,3 @@ def hexagonal_prism():
                                Height=h, Base_edge=b)
     else:
         return render_template('Hexagonal-prism.html')
-
-
-app.run()
